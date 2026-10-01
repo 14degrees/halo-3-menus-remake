@@ -1,0 +1,34 @@
+{
+  "type": "menu",
+  "title": "Lobbies",
+  "lobbies": {
+    "multiplayer": {
+      "title": "Matchmaking Lobby",
+      "video": "/backgrounds/multiplayervid.mp4",
+      "image": "/backgrounds/nightmap_background_ui.png",
+      "status": "1328 Gamers Online",
+      "items": ["SWITCH LOBBY", "NETWORK: XBOX LIVE (OPEN PARTY)", "PLAYLIST: BLAM!", "START MATCHMAKING"]
+    },
+    "customgames": {
+      "title": "Custom Games Lobby",
+      "video": "/backgrounds/customgamesvid.mp4",
+      "image": "/backgrounds/m_riverworld.jpg",
+      "status": "[BLAM!] on [BLAM!]",
+      "items": ["SWITCH LOBBY", "NETWORK: XBOX LIVE (OPEN PARTY)", "GAME: BLAM!", "MAP: BLAM!", "START GAME"]
+    },
+    "forge": {
+      "title": "Forge Lobby",
+      "video": "/backgrounds/forgevid.mp4",
+      "image": "/backgrounds/m_wallocotton.jpg",
+      "status": "Edit objects on [BLAM!]",
+      "items": ["SWITCH LOBBY", "NETWORK: XBOX LIVE (OPEN PARTY)", "MAP: BLAM!", "START FORGE"]
+    },
+    "theater": {
+      "title": "Theater Lobby",
+      "video": "/backgrounds/theatervid.mp4",
+      "image": "/backgrounds/c_070.jpg",
+      "status": "BLAM!",
+      "items": ["SWITCH LOBBY", "NETWORK: XBOX LIVE (OPEN PARTY)", "FILM: BLAM!", "START FILM"]
+    }
+  }
+}
